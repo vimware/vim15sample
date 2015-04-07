@@ -1,0 +1,3 @@
+﻿vim's comments on the project
+
+CTRL-Shift-F to search whole project for strings
